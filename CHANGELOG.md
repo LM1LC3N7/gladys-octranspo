@@ -10,6 +10,8 @@ the notes of the version's GitHub Release.
 
 ## [Unreleased]
 
+## [0.1.1] - 2026-10-11
+
 ### Fixed
 
 - A real-time feed served cut short or empty for a moment no longer empties
@@ -36,5 +38,6 @@ the notes of the version's GitHub Release.
 - Stop search by name or number, in the stop list shipped with the image.
 - Dashboard widget, scene trigger and scene action (Gladys 5.1.0+).
 
-[Unreleased]: https://github.com/LM1LC3N7/gladys-octranspo/compare/v0.1.0...HEAD
+[Unreleased]: https://github.com/LM1LC3N7/gladys-octranspo/compare/v0.1.1...HEAD
+[0.1.1]: https://github.com/LM1LC3N7/gladys-octranspo/compare/v0.1.0...v0.1.1
 [0.1.0]: https://github.com/LM1LC3N7/gladys-octranspo/releases/tag/v0.1.0
