@@ -1,6 +1,6 @@
 {
   "name": "gladys-octranspo",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "private": true,
   "description": "Gladys Assistant external integration for OC Transpo, Ottawa: next bus and O-Train departures.",
   "type": "module",
