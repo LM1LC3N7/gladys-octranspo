@@ -25,7 +25,7 @@ User documentation: [français](docs/fr.md) · [English](docs/en.md).
 | Scene action          | read the next departures of a stop                         |
 | Configuration buttons | test the OC Transpo API key, find a stop by name or number |
 
-Requires Gladys **5.1.0** or later.
+Requires Gladys **5.3.0** or later.
 
 | Without any account                                                         | With a free OC Transpo key                     |
 | --------------------------------------------------------------------------- | ---------------------------------------------- |
